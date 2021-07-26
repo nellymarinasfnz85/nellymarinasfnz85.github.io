@@ -1,0 +1,19 @@
+{
+  "static": {
+    "loading": "Chờ đã, sẽ sớm mở ...",
+    "title": "Phòng trưng bày nghệ thuật",
+    "unlock_title": "lời khuyên",
+    "unlock_msg": "Xem quảng cáo để mở khóa thêm",
+    "unlock_btn_ads_watch_once": "Đồng hồ",
+    "unlock_btn_cancel": "không",
+    "image_render_error": "Không thể hiển thị nó một cách chính xác..."
+  },
+  "dynamic": {
+    "性感美女": "những cô gái nóng bỏng",
+    "清纯美眉": "Cô gái ngây thơ",
+    "美女校花": "Nữ sinh",
+    "性感车模": "nữ diễn viên nóng bỏng",
+    "旗袍美女": "cô gái sườn xám",
+    "明星写真": "Người nổi tiếng"
+  }
+}
